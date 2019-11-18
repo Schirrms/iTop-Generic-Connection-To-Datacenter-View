@@ -22,7 +22,7 @@
 				</details>
 				<list>
 					<items>
-						<item id="position_v">
+						<item id="position_v" _delta="define">
 							<rank>80</rank>
 						</item>
 					</items>
