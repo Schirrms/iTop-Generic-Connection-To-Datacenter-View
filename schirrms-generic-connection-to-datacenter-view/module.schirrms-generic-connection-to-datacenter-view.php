@@ -24,7 +24,9 @@ SetupWebPage::AddModule(
 		// Components
 		//
 		'datamodel' => array(
-			'model.schirrms-generic-connection-to-datacenter-view.php'
+			'model.schirrms-generic-connection-to-datacenter-view.php',
+			// Explicitly load APIs classes
+			'src/Hook/Backoffice/PageUIExtension.php',
 		),
 		'webservice' => array(
 			
