@@ -7,8 +7,8 @@ This is a tiny extension, just adding some fields of Molkobain's [DatacenterView
 
 # Versions
 
-2019-xx-xx : v0.1 just some hooks to links some of my classes with the great work of Molkobain :)
-2020-09-25 : v0.2 Molkobain did an uncredible work to add specific colors in the 'Rack View' for my own extension ! Thanks Molkobain !
+- 2019-xx-xx : v0.1 just some hooks to links some of my classes with the great work of Molkobain :)
+- 2020-09-25 : v0.2 Molkobain did an uncredible work to add specific colors in the 'Rack View' for my own extension ! Thanks Molkobain !
 
 # Dependencies
 
