@@ -1,6 +1,6 @@
 <?php
 
-namespace Schrimms\iTop\Extension\GenericConnectionToDatacenterView\Hook\Backoffice;
+namespace Schirrms\iTop\Extension\GenericConnectionToDatacenterView\Hook\Backoffice;
 
 use iTopWebPage;
 

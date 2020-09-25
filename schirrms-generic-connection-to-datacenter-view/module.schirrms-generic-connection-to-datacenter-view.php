@@ -5,7 +5,7 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'schirrms-generic-connection-to-Datacenter-view/0.1.0',
+	'schirrms-generic-connection-to-Datacenter-view/0.2.0',
 	array(
 		// Identification
 		//
@@ -16,7 +16,7 @@ SetupWebPage::AddModule(
 		//
 		'dependencies' => array(
 			'schirrms-generic-connection/0.7.2',
-			'molkobain-datacenter-view/1.5.1'
+			'molkobain-datacenter-view/1.7.0'
 		),
 		'mandatory' => false,
 		'visible' => true,
