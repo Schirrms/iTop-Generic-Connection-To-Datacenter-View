@@ -17,6 +17,8 @@ Of course, this extension can only be installed on a system with :
 - Molkobain's DatacenterView >= 1.7.0
 - iTop-Generic-Connection >= 0.7.2
 
+# 2022-03-18 update : this contribution didn't work anymore with Molkobain's DatacenterView 1.10.0. So the version 0.3.0+ are not backward compatible with Molkobain's DatacenterView <= 1.8.0 (Didn't test version 1.9).
+
 # Installation
 
 As for all my extensions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
